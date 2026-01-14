@@ -2,7 +2,7 @@
 
 A collection of 3D modeling, animation, and motion graphics projects created in Blender. Featuring photorealistic product renders, abstract motion graphics, and cinematic neon animations.
 
-![Donut Monsters](renders/donut-monsters.jpg)
+![Donut Monsters](renders/donut-monsters.png)
 
 ## 🌟 Portfolio Highlights
 
@@ -15,7 +15,7 @@ A collection of 3D modeling, animation, and motion graphics projects created in 
 - Material creation: glossy chocolate, matte dough, subsurface scattering
 - Physically accurate rendering with Cycles
 
-![Donut Monster Render](renders/donut-monsters.jpg)
+![Donut Monster Render](renders/donut-monsters.png)
 
 ---
 
